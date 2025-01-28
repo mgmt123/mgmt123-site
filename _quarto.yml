@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Mgmt 123"
+  favicon: "plot/mgmt123-hex-logo.png"
+  
+  repo-url: https://github.com/econ148-analytical-stat-package
+  site-url: https://econ148-analytical-stat-package.github.io/econ148-site/
+  
+  sidebar:
+    style: docked
+    pinned: true
+    seacrh: true
+    logo: "plot/mgmt123-hex-logo.png"
+    contents:
+      - href: "index.qmd"
+        text: "Home"
+      - section: "Topics"
+        contents:
+          - href: "00-m0-intro-r.qmd"
+            text: "Module 1: Introduction to R programming"
+          - href: "00-m0-intro-data-viz-ggplot.qmd"
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, dark-style.scss]
+    mainfont: "Arial"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+editor: visual
