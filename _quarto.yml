@@ -20,9 +20,8 @@ website:
         text: "Home"
       - section: "Topics"
         contents:
-          - href: "00-m0-intro-r.qmd"
-            text: "Module 1: Introduction to R programming"
-          - href: "00-m0-intro-data-viz-ggplot.qmd"
+          - href: "m1-intro-managerial-econ.qmd"
+            text: "Module 1: intro to managerial economics"
 
 
 format:

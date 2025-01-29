@@ -1,0 +1,18 @@
+---
+title: "Introduction to managerial economics."
+---
+
+1. Economic theory and business economics
+2. Managers, firms, and markets.
+3. Fundamentals of managerial decision-making.
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQiUYYRMwp-VevjGFDBvnB2uyggWGNYYZ0K976WxX4MFRkyjPdLxoXPj5-Hh3EdjA/embed?start=false&loop=false&delayms=60000" target="_blank" class="btn-slides">View slides in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiUYYRMwp-VevjGFDBvnB2uyggWGNYYZ0K976WxX4MFRkyjPdLxoXPj5-Hh3EdjA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute; top:0; left: 0">
+
+</iframe>
+
+
+<br>
