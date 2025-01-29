@@ -26,6 +26,8 @@ website:
             text: "Module 2: price determination in competitive markets"
           - href: "m3-theory-empirical-analysis-demand.qmd"
             text: "Module 3: theory and empirical analysis of demand"
+          - href: "m4-theory-empirical-analysis-supply.qmd"
+            text: "Module 4: theory and empirical analysis of supply"
 
 
 format:

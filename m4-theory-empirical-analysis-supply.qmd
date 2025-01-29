@@ -1,0 +1,16 @@
+---
+title: "Theory and empirical analysis of supply"
+---
+
+1.  Production and costs in the short-run.
+2. Production and costs in the long-run.
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vR19wuFSNW6Npaf5x21T68gAv12Fwh1cHfI3xO2eAuTB-anqXNPGubZQeL0B3mRJg/embed?start=false&loop=false&delayms=60000" target="_blank" class="btn-slides">View slides in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR19wuFSNW6Npaf5x21T68gAv12Fwh1cHfI3xO2eAuTB-anqXNPGubZQeL0B3mRJg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute; top:0; left: 0">
+
+</iframe>
+
+<br>
+:::
