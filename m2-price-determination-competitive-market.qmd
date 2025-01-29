@@ -1,0 +1,18 @@
+---
+title: "Price determination in competitive markets"
+---
+
+1. Demand supply, and market equilibrium.
+2. Elasticity and total revenue
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTPk7h0SOMOIOESI_vurfNiNBKzdMK_CMoEQAiJKobBU-56jHyJWpm62C3fbeqZ3w/embed?start=false&loop=false&delayms=60000" target="_blank" class="btn-slides">View slides in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPk7h0SOMOIOESI_vurfNiNBKzdMK_CMoEQAiJKobBU-56jHyJWpm62C3fbeqZ3w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position:absolute; top:0; left: 0">
+
+</iframe>
+
+
+
+<br>
+:::
